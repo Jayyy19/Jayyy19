@@ -21,9 +21,9 @@ Highly motivated developer focused on building high-performance backend systems 
 ---
 
 ### 🎯 2026 Objectives
-- [ ] **Q2:** Contribute 10+ PRs to Upstream Go/DevOps projects.
-- [ ] **Q3:** Achieve Linux Foundation Certification (CKA or LFCS).
-- [ ] **Q4:** Deploy a full-stack Go application using a containerized CI/CD pipeline.
+- [ ] **Q1** Contribute 10+ PRs to Upstream Go/DevOps projects.
+- [ ] **Q2:** Achieve Linux Foundation Certification (CKA or LFCS).
+- [ ] **Q3:** Deploy a full-stack Go application using a containerized CI/CD pipeline.
 
 ---
 
