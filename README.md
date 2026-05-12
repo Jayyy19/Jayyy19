@@ -7,7 +7,7 @@ Highly motivated developer focused on building high-performance backend systems 
 ### 🔧 Technical Ecosystem
 
 * **Languages:** Golang (Core Focus), Python (Automation), Bash (Scripting)
-* **Linux & Kernel:** Arch Linuc, Process Management, Systemd, File Systems
+* **Linux & Kernel:** Arch Linux, Process Management, Systemd, File Systems
 * **DevOps Tools:** Git/GitHub, Docker (Learning), CI/CD Fundamentals
 * **Development:** VS Code, Vim, Terminal
 ---
