@@ -1,4 +1,4 @@
-# Jayy| DevOps & Systems Engineering 🛠️
+# Jayy | DevOps & Systems Engineering 🛠️
 
 Highly motivated developer focused on building high-performance backend systems with **Go** and managing robust infrastructure via **Linux** and **Cloud Native** ecosystems. Currently dedicated to mastering automation and bridging the gap between development and operations.
 
